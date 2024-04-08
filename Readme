@@ -1,25 +1,16 @@
+Sistema de gestión de libros en línea, unan plataforma digital diseñada para administrar y organizar una biblioteca virtual.
+
+Registro de libros: Permite agregar nuevos libros a la base de datos del sistema. Esto incluye información como título, 
+autor, género, año de publicación.
+Búsqueda y filtrado: Proporciona herramientas de búsqueda avanzada que permiten a los usuarios encontrar libros por título, 
+autor, género, palabras clave, etc.
+Gestión de usuarios: Permite a los usuarios registrarse, iniciar sesión y administrar. Esto incluye la capacidad de ver los 
+libros registrados, así como también modificar la información de los libros.
+Interfaz amigable y responsive: La interfaz del sistema debe ser intuitiva y fácil de usar en diferentes dispositivos, 
+como computadoras de escritorio, tabletas y teléfonos móviles.
+
 primer paso instalacion de node_modules
 > npm install
 segundo paso creacion de env
 >.env (configuracion de PORT y MONGODBURI)
-
-
-
-
-//para subir un proyecto a github
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/XIAC/test123123.git
-git push -u origin main
-
-
-// git clone https://github.com/XIAC/tes667676.git
-git status 
-
-git add .
-
-git commit -m "first commit"
-git push 
+ 
